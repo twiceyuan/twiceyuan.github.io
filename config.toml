@@ -1,0 +1,29 @@
+baseURL = 'yuanis.me'
+languageCode = 'zh-cn'
+title = 'twiceYuan'
+theme = 'nightfall'
+
+[params]
+author = "twiceYuan"
+user = "twiceYuan"
+hostname = "yuanis.me"
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/twiceyuan"
+
+[[params.social]]
+key = 1
+name = "twitter"
+url = "https://twitter.com/twiceYuan"
+
+[[params.social]]
+key = 2
+name = "linkedin"
+url = "https://www.linkedin.cn/in/yuan-yuan-1b820570"
+
+[[params.social]]
+key = 3
+name = "email"
+url = "mailto:twiceyuan+blog@gmail.com"
