@@ -4,7 +4,7 @@
   
     
     <entry>
-      <title><![CDATA[Android 项目中配置服务器地址的方案演变]]></title>
+      <title><![CDATA[Android 项目中配置服务器地址小工具]]></title>
       <url>https://twiceyuan.com/2019/01/25/android-server-variable/</url>
       <content type="html"><![CDATA[<p>在客户端开发时，经常会遇到一个非业务需求——更换服务器的 Base URL。一般的情况是测试环境和生产环境之间相互切换。</p>
 <a id="more"></a>
