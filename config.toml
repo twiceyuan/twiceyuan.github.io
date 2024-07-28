@@ -58,3 +58,7 @@ url = "https://www.linkedin.cn/in/yuan-yuan-1b820570"
 key = 3
 name = "email"
 url = "mailto:twiceyuan+blog@gmail.com"
+
+[services]
+  [services.disqus]
+    shortname = 'twiceyuan'
