@@ -2,7 +2,7 @@ baseURL = 'yuanis.me'
 languageCode = 'zh-cn'
 title = 'twiceYuan'
 theme = 'hello-friend-ng'
-paginate = 10
+pagination.pagerSize = 10
 
 [params]
 author = "twiceYuan"
