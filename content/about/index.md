@@ -5,7 +5,9 @@ date: 1993-03-02T19:45:08+08:00
 
 ![avatar](https://s.gravatar.com/avatar/c726a5fb7d04d49e122b77cfefd29298?s=80)
 
-做了 $(currentYear - 2016) 年的 Android App 开发，头像来自 Rick & Morty
+做了 <span id="experience-counter"></span> 年的 Android App 开发，头像来自 Rick & Morty
+
+<script src="/js/experience-counter.js"></script>
 
 可以在这些地方找到我：
 - [GitHub](https://github.com/twiceyuan)
